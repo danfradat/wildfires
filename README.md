@@ -9,6 +9,7 @@ Using data from NASA. Identify wildfires locations in France, Germany and Greece
 
 
 Data
+
 MODIS Collection 6 Hotspot / Active Fire Detections MCD14ML distributed from NASA FIRMS. Available on-line https://earthdata.nasa.gov/firms. doi:10.5067/FIRMS/MODIS/MCD14ML 	
 
 Folders
