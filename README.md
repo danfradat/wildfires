@@ -14,7 +14,10 @@ MODIS Collection 6 Hotspot / Active Fire Detections MCD14ML distributed from NAS
 
 Folders
 
-   Data: Separated into Original and Prepared Data.
-   Python Sripts: Contains the Python coding involved for the analysis.
-   Visualisations : contains visualisations from the analysis
-   Case Study: contains a write-up of the project with visualisations
+Data: Separated into Original and Prepared Data.
+  
+Python Sripts: Contains the Python coding involved for the analysis.
+  
+Visualisations : contains visualisations from the analysis
+ 
+Case Study: contains a write-up of the project with visualisations
